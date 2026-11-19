@@ -41,7 +41,7 @@ The project uses the PlantVillage dataset, which contains images of healthy and 
 - Total categories: 38
 - Includes multiple crops and disease conditions.
 
-Dataset source: [PlantVillage Dataset](https://github.com/spMohanty/PlantVillage-Dataset)
+
 
 ## 🛠️ Technology Stack
 
@@ -66,7 +66,7 @@ Dataset source: [PlantVillage Dataset](https://github.com/spMohanty/PlantVillage
 **Deployment**
 
 - GitHub
-- Render
+  
 
 ## 📁 Project Structure
 
